@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohammedadaqqa" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedadaqqa?logo=twitter&style=for-the-badge" alt="mohammedadaqqa" /></a> </p>
 
-- 💬 Ask me about **Django, Spring MVC**
+- 💬 Ask me about **Django
 
 - 📫 How to reach me **mohammedashrafdagga@gmail.com**
 
