@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ashraf AbuDagga</h1>
+<h1 align="center">Hi 👋, I'M MOHAMMED ASHRAF ABUDAQQA</h1>
 <h3 align="left">An AI Engineer from Palestine</h3>
 
 <p align="left">
