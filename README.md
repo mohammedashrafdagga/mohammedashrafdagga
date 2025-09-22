@@ -2,7 +2,7 @@
 <h3 align="left">An AI Engineer from Palestine</h3>
 
 <p align="left">
-I’m passionate about building intelligent solutions using AI and agents to solve real-world problems, automate processes, and enhance user experiences through innovative technology.
+I’m passionate about building intelligent solutions using AI to solve real-world problems, automate processes, and enhance user experiences through innovative technology.
 </p>
 
 - 📫 How to reach me **mohammedashrafdagga@gmail.com**
